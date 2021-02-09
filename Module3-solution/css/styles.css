@@ -1,0 +1,12 @@
+li{
+	border-bottom: 1px solid black;
+}
+.section {
+	background-color: lightgray;
+	padding: 0 20px;
+	margin: 15px auto;
+	height: 1000px;
+}
+h3 {
+	padding-top: 5px;
+}
