@@ -10,8 +10,7 @@ p{
 	padding-left: 10%;
 	padding-right:10%;
 	font-family: 'Shadows Into Light', cursive;
-	font-weight: 300;
-	text-rendering: optimizeLegibility;
+	text-rendering: auto;
 }
 
 
